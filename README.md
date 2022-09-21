@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </div>
 <details>
   <summary>📌 About Me</summary>
-  🎂 Age: 23
+  🎂 Age: 22
   <br>
   🗣️ Languages: Arabic, English, and a little French
   <br>
